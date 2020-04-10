@@ -1,0 +1,179 @@
+/*Fix para que no aparezca detrás del navbar*/
+
+#empresa, #proyectos, #equipo, #contacto{
+    margin-top: -10vh;
+    padding-top: 10vh;
+}
+
+/* ------------------------------------------------------------------------ */
+
+body{
+    background-color: #ededed;
+}
+
+*{
+    font-family:'Helvetica', san-serif;
+}
+/* NAV */
+
+#menu{
+    background-color: #FFF !important;
+}
+
+nav a i {
+    color: black !important;
+}
+
+nav a:hover, nav i:hover {
+    font-weight: bold;
+}
+
+/* EMPRESA */
+
+.card {
+    padding:20px;
+    border-radius:10px;
+    border:1px solid #ededed;
+    flex:0 0 auto;
+    margin:20px;
+    font-family:'Helvetica', san-serif;
+    font-weight:600;
+    transition:0.3s all ease;
+    cursor:pointer;
+    border:2px solid rgba(200, 200, 255, 0);
+}
+
+.card:hover {
+    background-color:#FFF;
+    transform:scale(1.01);
+}
+
+.card:active,&:focus {
+    transform:scale(0.99);
+    background-color: #dcdcdc;
+}
+
+.card-title {
+    text-align: center !important;
+    color: #000;
+    font-weight: bold;
+}
+
+.card-text{
+    font-weight: normal !important;
+}
+
+#texto_empresa{
+    text-align: center;
+}
+
+#titulo_empresa{
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* PROYECTOS */
+
+#proyectos{
+    background-color: #000;
+}
+
+#titulo_proyectos{
+    color: #FFF;
+    text-align: center;
+    font-weight: bold;
+}
+
+#texto_proyectos{
+    text-align: center;
+    color: #FFF;
+}
+
+/* EQUIPO */
+
+#titulo_equipo{
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* CONTACTO */
+
+#contacto{
+    background-color: #000;
+}
+
+#titulo_contacto{
+    color: #FFF;
+    text-align: center;
+    font-weight: bold;
+}
+
+#texto_contacto{
+    color: #FFF;
+    text-align: center;
+}
+
+/* REDES SOCIALES */
+
+#footer {
+    padding: 4rem 0 2rem 0 ;
+    background: #000;
+    text-align: center;
+}
+
+#footer a {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#footer a:hover {
+    color: #FFF;
+    text-decoration: none !important;
+}
+
+#footer .copyright {
+    color: #bbb;
+    font-size: 0.9rem;
+    margin: 0 0 2rem 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul.icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.icons li {
+    display: inline-block;
+    padding: 0 1rem 0 0;
+}
+
+ul.icons li:last-child {
+    padding-right: 0;
+}
+
+ul.icons li .icon:before {
+    font-size: 2rem;
+}
+
+.icon {
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+}
+
+.icon:before {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: none !important;
+}
+
+.icon > .label {
+    display: none;
+}
