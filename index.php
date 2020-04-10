@@ -85,7 +85,7 @@
                     <br>
                     <div class="card-deck">
                         <div class="card">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="images/izuz.jfif" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">GONZALO IZUZQUIZA</h5>
                                 <p class="card-text">Estudios: Técnico en desarrollo de aplicaciones multiplataforma y estudiante de ingeniería informática</p>
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="card">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="images/lago.jfif" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">ALEJANDRO LAGO</h5>
                                 <p class="card-text">Estudios: Técnico en desarrollo de aplicaciones multiplataforma y estudiante de ingeniería informática</p>
@@ -101,7 +101,7 @@
                             </div>
                         </div>
                         <div class="card">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="images/cifuentes.jfif" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">CARLOS FUENTES</h5>
                                 <p class="card-text">Estudios: Técnico en desarrollo de aplicaciones multiplataforma y estudiante de python</p>
