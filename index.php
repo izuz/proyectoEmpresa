@@ -13,9 +13,9 @@
         <?php
         // put your code here
         ?>
-        
-        
-                <!-- Scripts -->
+
+
+        <!-- Scripts -->
         <script src="assets/js/jquery.min.js" type="text/javascript"></script>
         <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="assets/js/jquery.scrolly.min.js" type="text/javascript"></script>
@@ -23,7 +23,7 @@
         <script src="assets/js/breakpoints.min.js" type="text/javascript"></script>
         <script src="assets/js/util.js" type="text/javascript"></script>
         <script src="assets/js/main.js" type="text/javascript"></script>
-        
-        
+
+
     </body>
 </html>
