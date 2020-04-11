@@ -51,7 +51,12 @@
                     <br>
                     <h3 id="titulo_empresa">NUESTRAS EMPRESA</h3>
                     <br>
-                    <p id="texto_empresa">AQUÍ VA LA DESCRIPCION DE LA EMPRESA</p>
+                    <p id="texto_empresa">Somos un grupo de jovenes emprendedores que buscamos hacernos un pequeño hueco
+                    en el mercado de las páginas web.Especialistas en nuestro campo y con un trato a nuestros clientes muy personal.
+                    Buscamos que nuestros clientes vean reflejado la esencia de su negocio en su web, por eso mantenemos en todo momento
+                    el contacto con ellos.
+                    </p>
+                 
                 </div>
             </header>
         </section>
